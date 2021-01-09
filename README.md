@@ -1,1 +1,1 @@
-# Using-Liner-Model-to-Predict-Credit-Card-Fraud
+# Using-Linear-Model-to-Predict-Credit-Card-Fraud
